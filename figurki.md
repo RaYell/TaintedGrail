@@ -1,4 +1,6 @@
-# Upadek Avalonu
+# Figurki
+## The Fall of Avalon (Upadek Avalonu)
+
 Zdjęcia                                                                                             | Nazwa Angielska         | Nazwa Polska
 --------------------------------------------------------------------------------------------------- | ----------------------- | --------------------------
 [Link](http://www.miniatures-workshop.com/lostminiswiki/index.php?title=Image:AwakenR-TG-01-01.jpg) | Beor                    | Beor
@@ -11,7 +13,7 @@ Zdjęcia                                                                        
 [Link](http://www.miniatures-workshop.com/lostminiswiki/index.php?title=Image:AwakenR-TG-08-01.jpg) | Menhir 3                | Menhir 3
 [Link](http://www.miniatures-workshop.com/lostminiswiki/index.php?title=Image:AwakenR-TG-09-01.jpg) | Niamh                   | Niahm
 
-# Monsters of Avalon
+## Monsters of Avalon
 
 Zdjęcia                                                                                             | Nazwa Angielska         | Nazwa Polska
 --------------------------------------------------------------------------------------------------- | ----------------------- | --------------------------
@@ -36,7 +38,7 @@ Zdjęcia                                                                        
 [Link](http://www.miniatures-workshop.com/lostminiswiki/index.php?title=Image:AwakenR-TG-28-01.jpg) | Lost Knight             | Zatracony Rycerz
 [Link](http://www.miniatures-workshop.com/lostminiswiki/index.php?title=Image:AwakenR-TG-29-01.jpg) | Hellpig                 | Piekielny Dzik
 
-# Monsters of Avalon - Past and Future
+## Monsters of Avalon - Past and Future
 
 Zdjęcia                                                                                             | Nazwa Angielska         | Nazwa Polska
 --------------------------------------------------------------------------------------------------- | ----------------------- | --------------------------
@@ -61,7 +63,7 @@ Zdjęcia                                                                        
 [Link](http://www.miniatures-workshop.com/lostminiswiki/index.php?title=Image:AwakenR-TG-68-01.jpg) | Fuathan                 | Fuathan
 [Link](http://www.miniatures-workshop.com/lostminiswiki/index.php?title=Image:AwakenR-TG-69-01.jpg) | Mad Warrior             | Oszalały Wojownik
 
-# Towarzysze
+## Companions (Towarzysze)
 
 Zdjęcia                                                                                             | Nazwa Angielska         | Nazwa Polska
 --------------------------------------------------------------------------------------------------- | ----------------------- | --------------------------
@@ -71,7 +73,7 @@ Zdjęcia                                                                        
 [Link](http://www.miniatures-workshop.com/lostminiswiki/index.php?title=Image:AwakenR-TG-33-01.jpg) | Mysterious Badger       | Tajemniczy Borsuk
 [Link](http://www.miniatures-workshop.com/lostminiswiki/index.php?title=Image:AwakenR-TG-34-01.jpg) | Pack Donkey             | Osioł
 
-# Wiek Legend
+## The Age of Legends (Wiek Legend)
 
 Zdjęcia                                                                                             | Nazwa Angielska         | Nazwa Polska
 --------------------------------------------------------------------------------------------------- | ----------------------- | --------------------------
@@ -80,7 +82,7 @@ Zdjęcia                                                                        
 [Link](http://www.miniatures-workshop.com/lostminiswiki/index.php?title=Image:AwakenR-TG-37-01.jpg) | Duana                   | Duana
 [Link](http://www.miniatures-workshop.com/lostminiswiki/index.php?title=Image:AwakenR-TG-38-01.jpg) | Thebald                 | Thebald
 
-# Ostatni Rycerz
+## The Last Knight (Ostatni Rycerz)
 
 Zdjęcia                                                                                             | Nazwa Angielska         | Nazwa Polska
 --------------------------------------------------------------------------------------------------- | ----------------------- | --------------------------
@@ -89,11 +91,10 @@ Zdjęcia                                                                        
 [Link](http://www.miniatures-workshop.com/lostminiswiki/index.php?title=Image:AwakenR-TG-41-01.jpg) | Mabd                    | Mabd
 [Link](http://www.miniatures-workshop.com/lostminiswiki/index.php?title=Image:AwakenR-TG-42-01.jpg) | Sloan                   | Sloan
 
-# Czerwony Mór
+## The Red Death (Czerwony Mór)
 
 Zdjęcia                                                                                             | Nazwa Angielska         | Nazwa Polska
 --------------------------------------------------------------------------------------------------- | ----------------------- | --------------------------
 [Link](http://www.miniatures-workshop.com/lostminiswiki/index.php?title=Image:AwakenR-TG-43-01.jpg) | Plaguebeast             | Bestia Plagi
 [Link](http://www.miniatures-workshop.com/lostminiswiki/index.php?title=Image:AwakenR-TG-44-01.jpg) | Fomorian Sentinel       | Fomoriański Wartownik
 [Link](http://www.miniatures-workshop.com/lostminiswiki/index.php?title=Image:AwakenR-TG-45-01.jpg) | Danse Macabre           | Danse Macabre
-
