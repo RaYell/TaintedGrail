@@ -26,7 +26,7 @@ Przód | Tył | Nazwa Angielska | Nazwa Polska
 <img src="img/TG-13-01.jpg" width="200"/> | <img src="img/TG-13-02.jpg" width="200"/> | Wolfwalker | Wilcze Truchło
 <img src="img/TG-14-01.jpg" width="200"/> | <img src="img/TG-14-02.jpg" width="200"/> | Wyrmtangle | Żmijowisko
 <img src="img/TG-15-01.jpg" width="200"/> | <img src="img/TG-15-02.jpg" width="200"/> | Wyrdbear | Dziwdźwiedź
-<img src="img/TG-16-01.jpg" width="200"/> | <img src="img/TG-16-02.jpg" width="200"/> | Wypaczony Jeleń
+<img src="img/TG-16-01.jpg" width="200"/> | <img src="img/TG-16-02.jpg" width="200"/> | Warped Elk | Wypaczony Jeleń
 <img src="img/TG-17-01.jpg" width="200"/> | <img src="img/TG-17-02.jpg" width="200"/> | Wyrdchild | Dziecię Dziwu
 <img src="img/TG-18-01.jpg" width="200"/> | <img src="img/TG-18-02.jpg" width="200"/> | Fore-Dweller Reclaimer | Dziwotwórca
 <img src="img/TG-19-01.jpg" width="200"/> | <img src="img/TG-19-02.jpg" width="200"/> | Dullahan | Dullahan
