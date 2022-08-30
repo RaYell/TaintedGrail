@@ -18,8 +18,8 @@ Niamh | Niahm
 
 ### Monsters of Avalon
 
-| Nazwa Angielska | Nazwa Polska |
-| -- | -- |
+Nazwa Angielska | Nazwa Polska
+-- | --
 Underbrush Wyrm | Żmij Leśny, Żmij Zaroślowy
 Slaugh | Slaugh
 Hammerbeak | Młotodziób
