@@ -136,3 +136,59 @@
 13. !"Remedium:X" -> 1; "Remedium:X" -> 7
 14. -> "Remedium:4"; !"Remedium:1" -> 15; "Remedium:1" -> KT522, 12
 15. /
+
+## #108 Czerwiobór
+* -> #110
+
+## #109 Wyspa Umarłych
+* S66 -> 9
+* "Tropiciel" -> 11
+* -> 1
+* -> 4
+* -> 5
+
+1. "Pomocna Dłoń:1" -> 7; -> 10
+2. -> S11, "Sny i Wizje:5"
+3. "Sny i Wizje:5" -> 8; -> 2
+4. KT161, KT313, S66
+5. KT313, S66; -> 6; -> 3
+6. -> S66, 12
+7. -> 4; -> 5;
+8. /
+9. -> 14; -> 6
+10. -> 13
+11. -> KT147, S17
+12. /
+13. /
+14. -> "Czarny Kocioł:4"
+
+## #110 Nawiedzony Czerwiobór
+* -> 1
+
+1. -> 10
+2. (brak)
+3. (brak)
+4. /
+5. (brak)
+6. (brak)
+7. (brak)
+8. (brak)
+9. -> "Dziwne Spotkania:7"; -> 4; -> KT333, S44, S39
+10. !"Dziwne Spotkania:7" -> 9
+
+## #111 Podmurze
+* -> 1
+* -> 3
+* -> 7
+
+1. -> 2
+2. -> 4; "Sny i Wizje:3" -> 10; -> 8
+3. -> 9; -> 11
+4. -> 2
+5. (brak)
+6. (brak)
+7. !"Cosuil:1" -> KT435, "Cosuil:5", KT410, KT342, KT334, "Cosuil:1"
+8. -> S21, "Sny i Wizje:3"
+9. -> "Losy Ekspedycji:4", 11
+10. -> "Dziwne Spotkania:4"
+11. /
