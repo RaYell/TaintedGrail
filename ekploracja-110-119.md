@@ -71,12 +71,12 @@
 2. /
 3. /
 4. -> KT257,  "Losy Ekspedycji:7", "Zadanie Pani"
-5. "Losy Ekspedycji:6", !"Dziedzictwo Faela" -> 11; "Losy Ekspedycji:7", !"Dziedzictwo Faela" -> 11
+5. ("Losy Ekspedycji:6" | "Losy Ekspedycji:7"), !"Dziedzictwo Faela" -> 11
 6. -> 10; -> 5
 7. -> "Losy Ekspedycji:5"
 8. (brak)
 9. S8 -> 4; S21, S22 -> 7; S13 -> 3
-10. "Losy Ekspedycji:6", !"Dziedzictwo Faela" -> 11; "Losy Ekspedycji:7", !"Dziedzictwo Faela" -> 11
+10. ("Losy Ekspedycji:6" | "Losy Ekspedycji:7"), !"Dziedzictwo Faela" -> 11
 11. -> "Straszne Odkrycie:1"
 
 ## #114 Gęstojar
@@ -85,7 +85,7 @@
 * Arev, "Dziedzictwo Faela" -> 13
 
 1. -> "Znajomość Jaru:1"
-2. "Losy Ekspedycji:5", !"Dziedzictwo Faela" -> 7, "Losy Ekspedycji:6", !"Dziedzictwo Faela" -> 7, "Losy Ekspedycji:7", !"Dziedzictwo Faela" -> 7; !"Cosuil:1", !"Cosuil:5" -> KT435, "Cosuil:5", KT410, KT342, KT334, "Cosuil:1"; -> 3; -> 8
+2. ("Losy Ekspedycji:5" | "Losy Ekspedycji:6" | "Losy Ekspedycji:7"), !"Dziedzictwo Faela" -> 7; !"Cosuil:1", !"Cosuil:5" -> KT435, "Cosuil:5", KT410, KT342, KT334, "Cosuil:1"; -> 3; -> 8
 3. ->4; -> 6
 4. /
 5. -> 9; -> 1
