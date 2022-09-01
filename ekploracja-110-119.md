@@ -142,10 +142,63 @@
 18. -> KT715, "Koniec Drogi", KT700
 
 ## #117 Pierwsza Twierdza
-TODO
+* "Ostatki:2" -> 19
+* -> 1
+* -> 2
+* -> 5
+* -> 9
+* S33, "Ostatnia Przystań:2" -> 18
+
+1. -> 6
+2. "Ostatki:2" -> 19
+3. -> 4; -> 12; -> 8; -> 10
+4. "Zagadka Starostali" | "Sekret Kamieniarzy" -> KT277, S58, 7
+5. -> 11; -> 14
+6. -> 17; -> 3
+7. -> 3, -> KT134
+8. Beor, !"Ostatnia Lekcja:3" -> 16; "Zadanie Pani" -> 15, -> 7, -> KT134
+9. "Dziwne Spotkania:1"
+10. Ailei -> 13; -> 7
+11. /
+12. -> "Sekret Kamieniarzy", "Losy Ekspedycji:8", 7
+13. /
+14. /
+15. -> 7, KT116
+16. -> "Ostatnia Lekcja:3", 8
+17. -> KT325, KT343, "Ostatnia Przystań:2"
+18. -> "Ostatki:2", KT715, "Koniec Drogi", KT700
+19. -> KT715, "Koniec Drogi", KT700
 
 ## #118 Popłoch
-TODO
+* -> 4
+* -> 6
+
+1. -> "Dziwne Spotkania:2"
+2. (brak)
+3. -> "Dziwne Spotkania:2"
+4. !"Dziwne Spotkania:2" -> 5
+5. -> 1; -> 3; -> 7; "Wojna o Awalon:X" -> 10
+6. "Cosuil:4", !"Cosuil:5" -> KT515, KT359, KT229, "Cosuil:5", KT279, S50, KT460, S37, KT65; Beor | "Losy Ekspedycji:1" | "Sny i Wizje:1" -> 8
+7. -> "Dziwne Spotkania:2"
+8. Czerw, !"Ostatnia Lekcja:4" -> 11; -> KT264
+9. (brak)
+10. -> "Dziwne Spotkania:2"
+11. -> "Ostatnia Lekcja:4", 8
 
 ## #119 Cmentarzysko Statków
-TODO
+* -> 2
+* -> 5
+* -> 7
+* S33, "Ostatnia Przystań:3" -> 3
+* "Ostatnia Przystań:3" -> 10
+
+1. -> "Ukryte Skarby:5", 4
+2. /
+3. -> KT737, KT700
+4. -> 6
+5. -> S78, !"Ostatnia Przystań:3" -> 8; -> "Zwiadowca:7"
+6. /
+7. "Ukryte Skarby:5" -> 9; -> 1
+8. -> "Ostatnia Przystań:3"
+9. /
+10. -> KT737, KT700
