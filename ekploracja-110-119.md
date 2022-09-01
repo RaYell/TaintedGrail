@@ -78,3 +78,74 @@
 9. S8 -> 4; S21, S22 -> 7; S13 -> 3
 10. "Losy Ekspedycji:6", !"Dziedzictwo Faela" -> 11; "Losy Ekspedycji:7", !"Dziedzictwo Faela" -> 11
 11. -> "Straszne Odkrycie:1"
+
+## #114 Gęstojar
+* -> 2
+* -> 5
+* Arev, "Dziedzictwo Faela" -> 13
+
+1. -> "Znajomość Jaru:1"
+2. "Losy Ekspedycji:5", !"Dziedzictwo Faela" -> 7, "Losy Ekspedycji:6", !"Dziedzictwo Faela" -> 7, "Losy Ekspedycji:7", !"Dziedzictwo Faela" -> 7; !"Cosuil:1", !"Cosuil:5" -> KT435, "Cosuil:5", KT410, KT342, KT334, "Cosuil:1"; -> 3; -> 8
+3. ->4; -> 6
+4. /
+5. -> 9; -> 1
+6. "Wędrowny Menhir:X" -> 11; -> 12
+7. -> 10; -> 8
+8. /
+9. -> KT318, "Znajomość Jaru:2"
+10. -> "Losy Ekspedycji:7"; -> KT443, "Dziedzictwo Faela", "Coś Nadchodzi:1"; -> KT446, "Dziedzictwo Faela"
+11. /
+12. /
+13. -> "Ostatnia Lekcja:2"
+
+## #115 Schody Tytanów
+* -> #125
+* -> 7
+* -> 8
+* -> 9
+
+1. -> 5
+2. -> 5
+3. (brak)
+4. (brak)
+5. -> "Bezpieczny Chram"; -> "Upadek Rycerswa:4", -> "Odnowa Bractwa:4"
+6. (brak)
+7. /
+8. -> 2; -> S66, -> 5; S8 -> 1
+9. /
+
+## #116 Dalgród
+* "Straceni i Martwi:3" -> 13
+* -> 1
+* -> 3
+* -> 6
+* S16, "Wojna o Awalon:3" -> 10
+* "Negocjator:X" -> 11
+
+1. !"Wrogowie:1" -> 17, "Sojusznicy:3" -> 14, "Ostateczne Konfrontacje:2" -> 16, "Ostateczne Konfrontacje" -> 15
+2. -> 4
+3. -> 2
+4. "Zagadka Starostali" -> 385
+5. -> "Losy Ekspedycji:4" -> 17
+6. /
+7. -> KT112, "Wojna o Awalon:2"
+8. -> "Sojusznicy:3", "Wrogowie:2", 9
+9. -> "Negocjator:3"
+10. -> #126, KT265, "Sojusznicy:5", "Negocjator:1"
+11. -> "Negocjator:3"
+12. -> "Sojusznicy:3", "Wrogowie:3"
+13. -> #126
+14. -> "Zwiadowca:2"
+15. -> 18
+16. -> 15; -> 18; -> KT777
+17. -> 5; "Wojna o Awalon:1", !"Wojna o Awalon:2" -> 7; S12 -> 8; S16 -> 12
+18. -> KT715, "Koniec Drogi", KT700
+
+## #117 Pierwsza Twierdza
+TODO
+
+## #118 Popłoch
+TODO
+
+## #119 Cmentarzysko Statków
+TODO
