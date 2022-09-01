@@ -5,6 +5,8 @@
 * "Nazwa:3" - 3 część statusu o nazwie "Nazwa
 * !"Nazwa" - brak statusu o nazwie "Nazwa"
 * !"Nazwa:3" - brak 3 części statusu o nazwie "Nazwa
+* "Nazwa:X" - jakakolwiek część statusu o nazwie "Nazwa"
+* !"Nazwa:X" - brak jakiejkolwiek części statusu o nazwie "Nazwa
 * #101 - lokacja 101
 * S12 - Sekret #12
 * KT123 - Księga Tajemnic #123
@@ -74,3 +76,63 @@
 8. /
 9. (brak)
 10. -> 4; -> 5
+
+## #105 Porzucone Miecze
+* -> 14
+* -> 1
+* -> 2
+* -> 5
+
+1. -> 10
+2. -> 3; -> 4
+3. /
+4. -> "Zagadka Starostali"; -> 8; -> 3; -> S27
+5. /
+6. KT427, "Ukryte Skarby:1"
+7. (brak)
+8. -> 3; "S27
+9. (brak)
+10. -> 14; -> 6
+11. (brak)
+12. (brak)
+13. (brak)
+14. -> 15; -> 1
+15. /
+
+## #106 - Kurhany Pierwszych
+* "Wiatry Dziwu" -> #123
+* -> 1
+* -> 2
+
+1. -> 8
+2. -> "Płonąca Enigma:2"
+3. -> 9; S27 -> 10
+4. / (??? - brak referencji jak tu się dostać)
+5. (brak)
+6. (brak)
+7. (brak)
+8. -> 3
+9. S27 -> 10
+10. S11
+
+## #107 - Zbielina
+* "Dziedzictwo Faela:2", !"Ukryte Skarby:2" -> 10
+* "Wiatry Dziwu", !"Remedium:4" > 14
+* Ailei -> 13
+* -> 7
+
+1. -> 3; -> 7
+2. -> KT434
+3. -> "Remedium:1", 2; -> "Remedium:2", 2; -> "Remedium:3", 2
+4. -> 9
+5. -> S32
+6. -> "Spadkobierca Gerrainta:2"
+7. -> 12; -> 11
+8. /
+9. -> "Łupieżca:4"
+10. -> KT263, "Ukryte Skarby:2"; -> KT308, "Odnowa Bractwa:1"; -> "Upadek Rycerstwa:1", S5
+11. -> 12; -> 8
+12. -> 4; -> 5; "Spadkobierca Gerrainta:1" -> 6;
+13. !"Remedium:X" -> 1; "Remedium:X" -> 7
+14. -> "Remedium:4"; !"Remedium:1" -> 15; "Remedium:1" -> KT522, 12
+15. /
