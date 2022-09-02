@@ -45,3 +45,21 @@
 26. -> 27; -> 23; -> KT777
 27. -> 23
 28. -> "Pomyślne Spotkania:4", 18
+
+## #132 Spokojne Oblicze
+* -> 1
+* -> 2
+
+1. /
+2. -> 8; -> 5; S33, "Ostatnia Przystań:5" -> 10
+3. -> 7
+4. (brak)
+5. -> 6; -> 5
+6. "Ostatki:5" -> 11; -> 3; -> 12
+7. Ailey -> 9; !"Ostatnia Przystań:5", "Sny i Wizje:6" -> 13
+8. /
+9. -> 7; -> KT163, 7, KT337, KT457, "Losy Ekspedycji:3", KT440, "Losy Ekspedycji:2", KT451, "Losy Ekspedycji:5", KT395, KT438, "Cosuil:1" -> KT471, "Cosuil:4" -> KT287, "Cosuil:2" -> KT250, "Cosuil:1" -> KT221
+10. -> "Ostatki:5", KT715, KT710
+11. -> 12; -> KT715, KT700
+12. -> KT142, "Płonąca Enigma:6", "Rozwiązanie Zagadki", KT114
+13. "Zagadka Starostali" | S27 -> "Ostatnia Przystań:5"
