@@ -109,7 +109,21 @@
 11. /
 
 ## #135 Bundorka
-TODO
+* "Misja Dyplomatyczna:X" -> 1
+* -> 7
+* "Wędrowny Menhir:X" -> 8
+* !"Wędrowny Menhir:X" -> KT223, KT390, KT107, KT330, "Wędrowny Menhir:1", #147, KT439, #148, KT220, KT306
+
+1. Arev -> 4; -> "Misja Dyplomatyczna:1", 9
+2. /
+3. -> "Misja Dyplomatyczna:5"
+4. -> "Misja Dyplomatyczna:1", "Misja Dyplomatyczna:2"
+5. -> "Misja Dyplomatyczna:3"
+6. (brak)
+7. -> 2; -> 10, "Misja Dyplomatyczna:X" -> 5
+8. /
+9. -> "Misja Dyplomatyczna:2"; Niamh -> 3
+10. /
 
 ## #136 Broch Cruach
 TODO
