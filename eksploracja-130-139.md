@@ -87,7 +87,26 @@
 15. -> KT651, "Rytuały:2"; -> KT526
 
 ## #134 Falfuar
-TODO
+* !"Misja Dyplomatyczna:X" -> 1
+* -> 2
+* -> 3
+* -> 5
+* "Wędrowny Menhir:X" -> 6
+* -> 10
+* -> 11
+* !"Wędrowny Menhir:X" -> KT223, KT390, KT107, KT330, "Wędrowny Menhir:1", #147, KT439, #148, KT220, KT306
+
+1. -> 4; ->7
+2. /
+3. -> "Misja Dyplomatyczna:4"
+4. -> "Misja Dyplomatryczna:1", 8
+5. /
+6. /
+7. -> "Misja Dyplomatryczna:1", 9, KT223
+8. -> "Misja Dyplomatryczna:2"
+9. /
+10. /
+11. /
 
 ## #135 Bundorka
 TODO
