@@ -126,13 +126,60 @@
 10. /
 
 ## #136 Broch Cruach
-TODO
+* !"Zew Spoza Świata" -> 2
+* -> 1
+* S40 -> 4
+* !"Pomyślne Spotkania:5" -> 8
+* "Zew Spoza Świata" -> 5
+* "Spadkobierca Gerrainta" ->9
+
+1. /
+2. -> "Zew Spoza Świata"
+3. -> 5
+4. "Spokój w Podgrodziu" -> 6
+5. -> 3; S32 -> 7
+6. -> S12
+7. -> #149
+8. -> "Pomyślne Spotkania:5", KT346, KT354, KT238
+9. -> "Spadkobierca Gerrainta:3"
 
 ## #137 Zdobyta Grań
-TODO
+* -> 1
+* -> 2
+* !"Bezludzie:3" -> 5
+
+1. -> 6; -> 4
+2. /
+3. -> "Bezludzie:3"
+4. -> KT531, KT605
+5. -> 3; -> 7
+6. !"Ukryte Skarby:6" -> "Ukryte Skarby:6", S7 -> 4
+7. -> "Bezludzie:3", S33
 
 ## #138 Zbuntowane Podgrodzie
-TODO
+* -> 1
+* -> 4
+* -> 11
+
+1. Ailey | "Losy Ekspedycji:1" -> 9
+2. -> 6
+3. -> 8
+4. "Pomoc Rebeliantom:3" | "Pomoc Rycerzom:3" -> 10; -> 2; ->5
+5. -> 3
+6. -> 7; "Pomoc Rebeliantom:1"
+7. -> "Pomoc Rebeliantom:1"
+8. -> "Pomoc Rycerzom:1"
+9. -> "Losy Ekspedycji:2", "Losy Ekspedycji:7", "Losy Ekspedycji:8"
+10. -> "Spokój w Podgrodziu"
+11. /
 
 ## #139 Zwalisko
-TODO
+* -> 2
+* -> 1
+
+1. -> 4; -> 6
+2. -> 5, "Ukryte Skarby:8"; -> 3; -> KT158, S14
+3. -> "Płonąca Enigma:7"
+4. -> "Sny i Wizje:7"
+5. /
+6. -> "Płonąca Enigma:4", "Sny i Wizje:7"
