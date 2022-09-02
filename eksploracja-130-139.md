@@ -63,3 +63,43 @@
 11. -> 12; -> KT715, KT700
 12. -> KT142, "Płonąca Enigma:6", "Rozwiązanie Zagadki", KT114
 13. "Zagadka Starostali" | S27 -> "Ostatnia Przystań:5"
+
+## #133 Księżycowy Krąg
+* -> 4
+* -> 1
+* -> 14
+* "Zwiadowca:7" -> 7
+
+1. Czerw, !"Odkupienie Czerwia" -> KT211, KT102, "Odkupienie Czerwia"; "Odnowa Bractwa:6" | "Upadek Rycerstwa:6" -> 4; -> 3
+2. -> S65
+3. -> 5; "Spadkobierca Gerrainta:1" -> 11; "Spadkobierca Gerrainta:1" -> 12; "Spadkobierca Gerrainta:1", "Spadkobierca Gerrainta:2", "Spadkobierca Gerrainta:3" -> 13
+4. -> 8; S8, "Księżycowy Krąg" -> 10; -> 2; S65 -> 6; "Rytuały:1", !"Rytuały:2" -> 15
+5. -> "Spadkobierca Gerrainta:1"
+6. -> KT455, S18, KT13
+7. -> "Zwiadowca:8"
+8. -> 9
+9. /
+10. -> 9
+11. -> "Upadek Rycerstwa:6"
+12. -> "Upadek Rycerstwa:6"
+13. -> "Odnowa Bractwa:6"
+14. /
+15. -> KT651, "Rytuały:2"; -> KT526
+
+## #134 Falfuar
+TODO
+
+## #135 Bundorka
+TODO
+
+## #136 Broch Cruach
+TODO
+
+## #137 Zdobyta Grań
+TODO
+
+## #138 Zbuntowane Podgrodzie
+TODO
+
+## #139 Zwalisko
+TODO
