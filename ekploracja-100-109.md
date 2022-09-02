@@ -10,6 +10,7 @@
 * #101 - lokacja 101
 * S12 - Sekret #12
 * KT123 - Księga Tajemnic #123
+* | - lub
 
 ## #101 Cuanacht
 * "Wiatry Dziwu" -> #121
