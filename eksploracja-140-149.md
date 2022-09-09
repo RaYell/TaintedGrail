@@ -78,4 +78,17 @@
 8. /
 
 ## #149 Strzaskany Broch
-TODO
+* -> 1
+* -> 2
+* "Wojna o Avalon:4" -> 9
+* "Spadkobierca Gerrainta:1" -> 8
+
+1. -> 3; -> 4; -> 5
+2. -> 6; -> 7
+3. /
+4. -> "Dziwne Spotkania:5", S31
+5. -> "Sekret Głębin"
+6. -> "Dziwne Spotkania:6"
+7. /
+8. -> "Spadkobierca Gerrainta:3"
+9. /
