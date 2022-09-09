@@ -23,7 +23,7 @@
 * "Wiatry Dziwu" -> 3
 * -> 4
 
-1. "Sojusznicy:2" -> 2, KT[2,4][3,8][3,6], KT436, 2, "Sojusznicy:2"
+1. "Sojusznicy:2" -> 2, KT[2,4][3,8][3,6], 8, KT436, 2, "Sojusznicy:2"
 2. -> 6; "Losy Ekspedycji:9" -> 10; -> 9; "Zwiadowca:8" -> 5
 3. /
 4. -> 7; -> 1
@@ -53,10 +53,29 @@
 9. -> "Bezludzie:6", S33
 
 ## #147 Opuszczone Falfuar
-TODO
+* -> 4
+* -> 6
+* -> 3
+
+1. -> "Sny i Wizje:4"
+2. /
+3. -> #114
+4. -> 2; -> 5; -> 1
+5. /
+6. /
 
 ## #148 Faldorka
-TODO
+* -> 7
+* -> 3
+
+1. -> "Bezludzie:5", S33
+2. /
+3. -> 6; -> 1
+4. (brak)
+5. /
+6. -> KT777
+7. -> 2, -> 8, -> 5
+8. /
 
 ## #149 Strzaskany Broch
 TODO
