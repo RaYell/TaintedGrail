@@ -11,3 +11,4 @@
 * S12 - Sekret #12
 * KT123 - Księga Tajemnic #123
 * | - lub
+* ~#123 - zastąp obecną lokację lokacją 123
