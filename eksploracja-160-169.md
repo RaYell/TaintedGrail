@@ -77,4 +77,13 @@ sen -> "Badanie Przylądka:5"
 10. -> KT715, KT700
 
 ## #165 Spalone Gniazdo
-TODO
+-> !"Bezludzie:4" -> 7
+
+1. (brak)
+2. -> 8
+3. (brak)
+4. -> 5
+5. -> "Bezludzie:4"
+6. -> 2
+7. -> 4
+8. -> S33
