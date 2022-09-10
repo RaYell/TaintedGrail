@@ -1,4 +1,4 @@
-## Badanie Przylądka
+# Badanie Przylądka
 
 Wszystkie części tego statusu zdobywa się w lokacji #161 Skraniec.
 
