@@ -1,19 +1,24 @@
-## Legenda
-* -> przejście do innego wiersza, zdobycie statusu
-* / - brak zmian
-* "Nazwa" - status o nazwie "Nazwa"
-* "Nazwa:3" - 3 część statusu o nazwie "Nazwa
-* !"Nazwa" - brak statusu o nazwie "Nazwa"
-* !"Nazwa:3" - brak 3 części statusu o nazwie "Nazwa
-* "Nazwa:X" - jakakolwiek część statusu o nazwie "Nazwa"
-* !"Nazwa:X" - brak jakiejkolwiek części statusu o nazwie "Nazwa
-* #101 - lokacja 101
-* S12 - Sekret #12
-* KT123 - Księga Tajemnic #123
-* | - lub
-
 ## #180 Upór Orrina
-TODO
+* -> 1
+* -> 2
+* -> 4
+
+1. -> 3
+2. /
+3. -> 6; -> 5
+4. -> ~#199
+5. -> "Dziwne Spotkania:3", 3
+6. -> "Schronienie"
 
 ## #185 Serce Tuathanu
-TODO
+* -> 1
+* S7 -> 8
+
+1. -> 3; -> 2
+2. -> 6; -> 1; -> 4
+3. -> 4
+4. -> 1; -> 2; S7 -> 5; -> 7
+5. -> 1; -> 2; -> 7
+6. -> 1; -> 4
+7. -> 4; -> KT555, "Płonąca Enigma:5", KT508, KT456, KT478, KT388, KT444, KT24, S78, KT610; KT612, "Rekonkwista", KT520, KT451, KT360
+8. -> 1; -> KT612
