@@ -35,7 +35,21 @@
 8. -> KT713, "Straceni i Martwi:1", KT700
 
 ## #152 Półdroże
-TODO
+* "Wojna o Awalon:X" -> 4
+* -> 1
+* -> 5
+
+1. -> 6; -> 3
+2. -> "Dziwne Spotkania:8", 11
+3. /
+4. Niahm -> KT281, S25; -> 7
+5. -> 10; -> 9; -> 8
+6. !"Dziwne Spotkania:8" -> 2
+7. !"Łupieżca:3" -> S9, "Łupieżca:3"
+8. S66 -> KT312
+9. /
+10. -> KT172, "Płonąca Enigma:7", "Pomocna Dłoń:5"
+11. -> KT157
 
 ## #153 Morze Paproci
 TODO
