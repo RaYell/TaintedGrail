@@ -124,10 +124,59 @@
 13. /
 
 ## #156 Wodogrzmoty
-TODO
+* -> 2
+* -> 7
+
+1. -> 4
+2. -> 6
+3. (brak)
+4. -> 10
+5. (brak)
+6. !"Ukryte Skarby:7" -> KT284, "Ukryte Skarby:7", S2
+7. -> 1; -> 9
+8. (brak)
+9. -> 1
+10. -> KT176, KT605
 
 ## #157 Migotliwy Brzeg
-TODO
+* -> 3
+* -> 6
+* "Sekret Głębin" -> 2
+* koszmar -> KT377, "Sekret Głębin"
+
+1. /
+2. -> 4
+3. -> KT482, "Sekret Głębin"
+4. -> 8
+5. -> 7; -> 9
+6. -> 1; -> 5
+7. -> "Sekret Głębin"; "Zadanie Morgiany", !"Strzepki Przeszłości" -> 10
+8. -> KT123, S3
+9. /
+10. -> "Strzępki Przeszłości", "Coś Nadchodzi:1"
 
 ## #158 Spotkanie w Półdrożu
-TODO
+* -> #152
+* -> 2
+* -> 3
+* -> 10
+
+1. "Sojusznicy:4", !"Wrogowie:3" -> 5; "Sojusznicy:5", !"Wrogowie:1" -> 7; "Sojusznicy:3", !"Wrogowie:2" -> 9; -> 16
+2. -> 1; -> 6
+3. -> 17; -> 6
+4. "Sojusznicy:4" -> 11; "Sojusznicy:5" -> 13; "Sojusznicy:3" -> 12
+5. -> "Instryga w Półdrożu:1", 19; -> 16; -> "Gość Honorowy", 13
+6. -> 4; -> 8
+7. -> "Instryga w Półdrożu:2", 19; -> 16; -> "Gość Honorowy", 12
+8. "Sojusznicy:4" -> "Straceni i Martwi:3", "Straceni i Martwi:4"; "Sojusznicy:5" -> "Straceni i Martwi:2", "Straceni i Martwi:3"; "Sojusznicy:3" -> "Straceni i Martwi:2", "Straceni i Martwi:4", 15
+9. -> "Instryga w Półdrożu:3", 19; -> 16; -> "Gość Honorowy", 11
+10. /
+11. "Straceni i Martwi:2"; "Intryga w Półdrożu:1" -> 15; "Sojusznicy:4" -> 14 -> 15
+12. "Straceni i Martwi:3"; "Intryga w Półdrożu:3" -> 15; "Sojusznicy:3" -> 14 -> 15
+13. "Straceni i Martwi:4"; "Intryga w Półdrożu:2" -> 15; "Sojusznicy:5" -> 14; -> 15
+14. "Sojusznicy:3" -> "Straceni i Martwi:3"; "Sojusznicy:4" -> "Straceni i Martwi:2"; "Sojusznicy:5" -> "Straceni i Martwi:4"
+15. "Intryga w Półdrożu:2" -> S73; "Intryga w Półdrożu:3" -> "Gość Honorowy"
+16. -> 6
+17. /
+18. (brak)
+19. -> 14; "Intryga w Półdrożu:1" -> 11; "Intryga w Półdrożu:2" -> 13; "Intryga w Półdrożu:3" -> 12
