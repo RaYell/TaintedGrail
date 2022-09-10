@@ -57,7 +57,7 @@ Poniższe sekcje zawierają spojlery.
 * Tropiciel
 * Ukryte Skarby
 * Upadek Rycerstwa
-* Uratowani przez Boginię
+* [Uratowani przez Boginię](statusy/uratowani-przez-boginie.md)
 * Wędrowny Menhir
 * Wiatry Dziwu
 * Wojna o Avalon
