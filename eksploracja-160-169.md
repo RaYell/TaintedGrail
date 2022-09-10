@@ -42,7 +42,7 @@ sen -> "Badanie Przylądka:5"
 
 1. -> 13; -> 4
 2. -> 9
-3. !"Badanie Przylądka"
+3. -> "Badanie Przylądka:2"
 4. !"Ukryte Skarby:4" -> 5; -> 1; -> 8
 5. -> "Ukryte Skarby:4"
 6. /
