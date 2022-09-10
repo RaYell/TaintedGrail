@@ -58,7 +58,23 @@ sen -> "Badanie Przylądka:5"
 16. -> "Ostatki:1", ~#170, KT715, KT700
 
 ## #162 Corbenic
-TODO
+* -> 2
+* -> 4
+* -> 6
+* -> 7
+* -> 10
+* sen/koszmar -> KT734, #155
+
+1. -> 6
+2. /
+3. -> KT625, KT234, KT756, KT338, KT479, KT513, KT523, KT766, S90
+4. /
+5. /
+6. -> 1; -> 3; -> 9; -> 8
+7. /
+8. -> 5
+9. -> 8
+10. -> KT715, KT700
 
 ## #165 Spalone Gniazdo
 TODO
