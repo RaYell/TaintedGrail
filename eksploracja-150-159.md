@@ -18,7 +18,21 @@
 14. -> "Bezludzie:9", S33
 
 ## #151 Długi Kurhan
-TODO
+* -> 1
+* -> 2
+* -> 3
+* -> 4
+* S14 -> 7
+* !"Straceni i Martwi:1" -> 8
+
+1. -> 5
+2. /
+3. -> "Losy Ekspedycji:2"
+4. -> 6; -> KT551, "Upadek Rycerstwa:5", KT489, "Odnowa Bractwa:5"
+5. -> "Sny i Wizje:8", "Płonąca Enigma:3"
+6. /
+7. -> KT571, KT533
+8. -> KT713, "Straceni i Martwi:1", KT700
 
 ## #152 Półdroże
 TODO
