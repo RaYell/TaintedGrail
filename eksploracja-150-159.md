@@ -101,7 +101,27 @@
 12. -> 3
 
 ## #155 Las Szeptów
-TODO
+* -> 1
+* -> 3
+* -> 5
+* -> 7
+* "Sekrety Lasu:2" -> 2
+* "Sekrety Lasu:3" -> 12
+* -> 13
+
+1. -> "Sekrety Lasu:4"
+2. Ailey, !"Ostatnia Lekcja:1" -> 8; S7 -> 9; -> 10; "Straszne Odkrycie:2" -> 6; -> 4
+3. -> "Sekrety Lasu:1"
+4. /
+5. -> "Sekrety Lasu:2"
+6. -> 2
+7. -> "Sekrety Lasu:3"
+8. -> "Ostatnia Lekcja:1"
+9. -> "Losy Ekspedycji:2", "Losy Ekspedycji:3", "Losy Ekspedycji:4"; Ailey, !"Ostatnia Lekcja:1" -> 8
+10. /
+11. -> #162
+12. -> 11
+13. /
 
 ## #156 Wodogrzmoty
 TODO
