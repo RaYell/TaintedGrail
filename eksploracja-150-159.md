@@ -83,8 +83,22 @@
 24. -> 16; -> 25; -> 17
 25. -> 13; -> 16; -> 24
 
-## #154 Grobowiec Zakonu
-TODO
+## #154 Grobowce Zakonu
+* !"Odnowa Bractwa:3", !"Upadek Rycerstwa:3" -> 3
+* -> 4
+
+1. -> "Ukryte Skarby:3"
+2. -> 3
+3. -> 2; -> 12; -> 9; "Straszne Odkrycie:2" -> 5
+4. -> 1; -> 7
+5. -> 8
+6. /
+7. -> "Sny i Wizje:2", 10
+8. -> KT332, "Upadek Rycerstwa:3", "Odnowa Bractwa:3"
+9. /
+10. S78 -> 11; -> 6; -> KT124, "Straszne Odkrycie:2", KT201
+11. /
+12. -> 3
 
 ## #155 Las Szeptów
 TODO
