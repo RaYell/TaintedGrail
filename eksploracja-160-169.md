@@ -33,7 +33,29 @@
 25. /
 
 ## #161 Skraniec
-TODO
+* -> 4
+* -> 7
+* -> 2
+* -> 10
+* S33, "Ostatnia Przystań:1" -> 16
+sen -> "Badanie Przylądka:5"
+
+1. -> 13; -> 4
+2. -> 9
+3. !"Badanie Przylądka"
+4. !"Ukryte Skarby:4" -> 5; -> 1; -> 8
+5. -> "Ukryte Skarby:4"
+6. /
+7. -> 3
+8. -> 14; -> 4
+9. -> "Badanie Przylądka:3"
+10. "Ostatnia Przystań:1" -> KT463, S47; "Badanie Przylądka:X" -> 15
+11. -> "Badanie Przylądka:4"
+12. -> "Ostatnia Przystań:1"
+13. -> KT355; "Badanie Przylądka:1"
+14. ->6; -> 11
+15. -> 12
+16. -> "Ostatki:1", ~#170, KT715, KT700
 
 ## #162 Corbenic
 TODO
